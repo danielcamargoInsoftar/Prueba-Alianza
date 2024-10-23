@@ -26,7 +26,7 @@ Antes de comenzar, asegúrate de tener instalado lo siguiente:
 
 Primero, clona este repositorio en tu máquina local usando Git:
 
-```bash
+
 git clone https://github.com/tu-usuario/sistema-gestion-clientes.git
 cd sistema-gestion-clientes
 
